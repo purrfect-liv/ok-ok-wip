@@ -2,7 +2,7 @@ idk how to code help
 <table>
   <tr>
     <th>
-         i'm cool person,, trust,, <img width="24" height="24" alt="tumblr_c3ae761030463c4b0d5a8014a1e19a8f_b164b3db_75" src="https://github.com/user-attachments/assets/e369bd9a-17bb-4129-82c5-0fb4412d49d1" />
+         i'm cool person,, trust,, <img width="20" height="20" alt="u3qfig" src="https://github.com/user-attachments/assets/59a999dd-13e7-451a-85a6-97f5aaff6fee" />
     </th>
   </tr>
 </table>
